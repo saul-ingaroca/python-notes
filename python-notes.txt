@@ -1,3 +1,17 @@
 ────────────
 Python Notes
 ────────────
+
+
+
+──────────────────────────────────────────────────
+Administrar alias de ejecución de aplicaciones
+──────────────────────────────────────────────────
+Windows Logo + I
+Aplicaciones
+Aplicaciones y características
+Alias de ejecución de aplicaciones
+Instalador de aplicación python.exe    Desactivado
+Instalador de aplicación python3.exe   Desactivado
+Instalador de aplicación python3.7.exe Desactivado
+──────────────────────────────────────────────────
