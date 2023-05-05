@@ -15,3 +15,12 @@ Instalador de aplicación python.exe    Desactivado
 Instalador de aplicación python3.exe   Desactivado
 Instalador de aplicación python3.7.exe Desactivado
 ──────────────────────────────────────────────────
+
+
+
+─────────────────────────────────────────
+Download Link
+─────────────────────────────────────────
+https://www.python.org/downloads/windows/
+python-3.11.1-amd64.exe
+─────────────────────────────────────────
